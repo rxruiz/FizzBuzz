@@ -9,4 +9,4 @@ def fizz_buzz():
     else:
       print(x)
       
-      
+fizz_buzz()
